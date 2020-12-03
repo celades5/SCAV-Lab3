@@ -26,7 +26,7 @@ def ex2():
         name = "ffmpeg -i {} ".format(files[k])
 
     # Add name
-    name = str(name + "container.mp4")
+    name = str(name + ".mp4")
     os.system(name)
 
 
