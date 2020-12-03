@@ -23,8 +23,13 @@ This repository consists in:
 
 -   **Fourth** We put the subtitles, audio tunes and video altogether into one container.
 
+**ex2:** In this exercise, we ask for a number of files and it's name, and then stores it into a container file with *.mp4* format extension
 
 
+**ex3:** In this exercise, we pass a file in *.mp4* format and it returns us which broadcasting standars would fit. We first insert the name, then get the name and the output looks for the important information (i.e.) *.h264, mpeg2, aac, ac3* etc... and then with that information, we compare it with a list which contains all the types of broadcasting (i.e) *DVB, ISBD, ATSC, DTMB* etc... and returns with whic type the file is compatible or if there is none it returns *ERROR*.
+
+
+**ex4:** This exercise asks to create some containers. In order to do that we just do a little menu that lets you launch the previouse exercises.
 
 
 **ex5:** This exercise it is just a simple menu that allows you to run an exercise desired.
