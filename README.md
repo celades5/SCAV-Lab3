@@ -11,6 +11,8 @@ This repository consists in:
 
 **Python exercises:** Containing the code for all the different exercises needed to compute this lab. Run *ex4* containing the menu of all the lab for a full experience. Run each exercise independently if desired.
 
+-   **NOTE:** The subtitles used are for the video *Big Buck Bunny* but I have used a different video as we can see in the lines below, therefore the subtitles do not match with the video, please take that into account.
+
 **ex1:** For the first exercise, we have to cut 1 minute of a video. The video I decided to use is the following: *Real Madrid vs FC Barcelona 2 - 3 All Goals and Full Highlights*. Therefore:
 
 -   **First:** Using basic ffmpeg commands learned through the course we cut 1 minut of the video, precisely, from **16:57** to **17:57**.
