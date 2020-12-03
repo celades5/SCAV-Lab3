@@ -18,9 +18,7 @@ def ex1():
 
     # Addinng subtitles
     os.system('ffmpeg -i messi1.mp4 -vf "ass=subs.ass" messi1_sub.mp4')
-    # os.system("ffmpeg -i messi1.mp4 -i infile.srt -c:v copy \
-# -c:a copy -c:s messi1_sub.mp4")
-
+    
     # Add the video, audio tunes and subtitles altogether in one container
     os.system('ffmpeg -i messi1.mp4 -i messi1_mono.mp3 -i messi1_br16k.mp3 \
             -map 0:0 -map 0:1 -map 1:0 -map 2:0 -vf \
