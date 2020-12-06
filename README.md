@@ -1,7 +1,7 @@
 # SCAV-Lab3
 Lab 3 for SCAV subject at UPF
 
-**Teacher:** Javi Fernandez
+**Teacher:** Javi Brines
 
 Tis readme intents to explain the third lab session in the SCAV subject for the video part.
 
